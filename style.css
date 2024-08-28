@@ -1,0 +1,26 @@
+body{
+   color: ghostwhite;
+   background: crimson;
+   
+}
+
+
+header{
+   border-bottom: solid 2px rgba(0, 0, 0, 0.984);
+   
+} 
+
+iframe{
+    border: dotted 5px
+
+}
+
+div{
+   border: black 5px
+
+}
+
+html{
+   border: dotted 5px
+
+}
